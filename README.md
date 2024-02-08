@@ -22,7 +22,7 @@ Clone do Site do GTA <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- Javasript
+- Javascript
 
 
 ## 💻 Projeto
