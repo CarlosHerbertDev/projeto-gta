@@ -13,7 +13,7 @@ Clone do Site do GTA <br/>
 <br>
 
   <p align= 'center'>
-  <img alt="Peojeto Site GTA" src="src/github/gtasite.jpg" width='100%'>
+  <img alt="Projeto Site GTA" src="src/github/gtasite.jpg" width='100%'>
   </p>
 
 
